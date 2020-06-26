@@ -1,0 +1,1 @@
+export const company = '英雄联盟'
